@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 2,
+		"brand": "Samsung",
+		"model": "Galaxy Z Fold 4",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 499999,
+		"colour": "Negro",
+		"image": "https://images.fravega.com/f500/117a974c34132536e73677d2273ddb68.jpg"
+	},
+	{
+		"id": 3,
+		"brand": "Motorola",
+		"model": "Edge 30 Ultra",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 279999,
+		"colour": "Negro Interestelar",
+		"image": "https://images.fravega.com/f500/158b16b31b1afc38b557b7c0ac8cd4c6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 2,
+		"brand": "Samsung",
+		"model": "Galaxy Z Fold 4",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 499999,
+		"colour": "Negro",
+		"image": "https://images.fravega.com/f500/117a974c34132536e73677d2273ddb68.jpg"
+	},
+	{
+		"id": 3,
+		"brand": "Motorola",
+		"model": "Edge 30 Ultra",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 279999,
+		"colour": "Negro Interestelar",
+		"image": "https://images.fravega.com/f500/158b16b31b1afc38b557b7c0ac8cd4c6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	},
+	{
+		"id": 5,
+		"brand": "Alcatel",
+		"model": "5H Plus",
+		"ram": "4GB",
+		"memory": "128GB",
+		"price": 77299,
+		"colour": "Negro",
+		"image": "https://images.fravega.com/f500/bae7e8b941482cfc9a25d1406a28bfac.jpg"
+	},
+	{
+		"id": 1,
+		"brand": "Xiaomi",
+		"model": "Note 11T Pro",
+		"ram": "12GB",
+		"memory": "256GB",
+		"price": 344499,
+		"colour": "Gris Meteorito",
+		"image": "https://images.fravega.com/f500/e5716ef1bdaccf770b7dfd6fb5de79a6.jpg"
+	}
+]

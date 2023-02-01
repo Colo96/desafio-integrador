@@ -1,0 +1,25 @@
+<div class="row">
+    {{#each products}}
+    <div class="col s4">
+        <div class="card">
+            <div class="card-image">
+                <img src={{this.image}}>
+                <a id={{this.id}} class="addToCart btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">+</i></a>
+            </div>
+            <div class="card-content">
+                <ul>
+                    <li>Marca: {{this.brand}}</li>
+                    <li>Modelo: {{this.model}}</li>
+                    <li>RAM: {{this.ram}}</li>
+                    <li>Memoria: {{this.memory}}</li>
+                    <li>Precio: ${{this.price}}</li>
+                    <li>Color: {{this.colour}}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    {{/each}}
+</div>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/client.js"></script>
